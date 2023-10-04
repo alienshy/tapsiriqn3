@@ -1,0 +1,56 @@
+nav{
+    width: 98%;
+    height: 100px;
+    background: rgb(221,8,8);
+    background: linear-gradient(90deg, rgba(221,8,8,1) 0%, rgba(170,155,13,0.9948354341736695) 51%, rgba(141,0,255,1) 100%);
+    font-family: 'Dancing Script', cursive;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+ul{
+    display: flex;
+    list-style: none;
+}
+li{
+    margin-right: 20px;
+}
+body {
+    background-image: url('https://media.istockphoto.com/id/1181011006/ru/фото/фотография-удивительной-темной-кожи-леди-проведения-фото-digicam-в-руках-фотографирование.jpg?s=612x612&w=0&k=20&c=BaeGh50AxanPJ6T7samx8ApSlDsQ18_gjv9JfptZY5g=');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.ss{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    margin: 10% auto;
+    text-align: center;
+}
+.ss img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+}
+.ds{
+    font-family: 'Dancing Script', cursive;
+    background-color: black;
+    color: white;
+    width: 98%;
+    height: auto;
+    padding: 10px;
+}
+.gh{
+    margin-top: 100px;
+    font-family: 'Dancing Script', cursive;
+    background-color: aliceblue;
+    color:black;
+    padding: 10px;  
+    width: 98%;
+    margin-bottom: 100px;
+}
+.vb{
+    height: 65px;
+    width: 98%;
+}
